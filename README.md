@@ -22,9 +22,6 @@ You can try out the live demo of the calculator app [here](https://github.com/Kh
 3. Enjoy performing basic arithmetic operations quickly and fairly easily!
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
