@@ -25,4 +25,3 @@ You can try out the live demo of the calculator app [here](https://github.com/Kh
 
 
 
-Your readme goes here. For inspiration or examples readme.md look [here](https://github.com/matiassingers/awesome-readme?tab=readme-ov-file) 
